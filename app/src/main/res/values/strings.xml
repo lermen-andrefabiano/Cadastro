@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="nome_completo">Nome completo</string>
+    <string name="data_nascimento">Data nascimento</string>
+    <string name="sexo">Sexo</string>
+    <string name="profissao">Profissão</string>
+    <string name="estado_civil">Estado civil</string>
+    <string name="senha">Senha</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+    <string name="action_settings">Settings</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="outros">Outros</string>
+    <string name="btn_proximo_passo">Proximo Passo</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="senha_diferrentes">Senha diferrentes</string>
+    <string name="informe_senha">Informe uma senha</string>
+
+    <string name="title_activity_display_cadastro">Mostra Informações</string>
+
+    <string-array name="estado_civil_array">
+        <item>Solteiro</item>
+        <item>Casado</item>
+        <item>Viuvo</item>
+        <item>Divorciado</item>
+    </string-array>
+
+    <string-array name="profissoes_array">
+        <item>Analista de sistemas</item>
+        <item>Costureira</item>
+        <item>Motorista</item>
+        <item>Padeiro</item>
+        <item>Carteiro</item>
+        <item>Advogado</item>
+        <item>Vendedor</item>
+    </string-array>
+
+</resources>
